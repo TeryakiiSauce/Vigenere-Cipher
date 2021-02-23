@@ -11,5 +11,6 @@ The application eats up *alot* of memory when **ALOT** of text is entered (idrk 
 ### How I tested my application (not that it matters)
 I was able to encrypt _9000_ paragraphs, _826,320_ words, & _5.57_ MB worth of Lorem Ipsum text in just _0.957_ seconds; however, the memory usage is **very high** consuming between _1,500_ & _3,500_ MB (programmers out there, help please! I would like to learn why this happens and whether it is normal or not)
 
-![image](encryption.png)
-![image](taskManager.png)
+Have fun hehe!! Thank you!
+
+![image](https://media.giphy.com/media/12nMEydAAgCxYA/giphy.gif)

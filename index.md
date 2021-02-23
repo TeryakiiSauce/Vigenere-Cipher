@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+![image](preview.png)
 
-You can use the [editor on GitHub](https://github.com/TeryakiiSauce/Vigenere-Cipher/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Firstly, I would like to mention once more that this application was built for **entertainment purposes** only. Use it at your own risk!
 
-### Markdown
+Anyway, with this application, you can encrypt & decrypt text quickly no matter how long the length of the text is. (well idek how long is the maximum length tbh but I'm sure it's pretty high lol, I have tested it on old CPUs as well as new).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The application eats up *alot* of memory when **ALOT** of text is entered (idrk if this is normal or not but I dont think it is haha). I would recommend having _8 GB_ of memory installed.
 
-```markdown
-Syntax highlighted code block
+### How I tested my application (not that it matters)
+I was able to encrypt _9000_ paragraphs, _826,320_ words, & _5.57_ MB worth of Lorem Ipsum text in just _0.957_ seconds; however, the memory usage is **very high** consuming between _1,500_ & _3,500_ MB (programmers out there, help please! I would like to learn why this happens and whether it is normal or not)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TeryakiiSauce/Vigenere-Cipher/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](encryption.png)
+![image](taskManager.png)

@@ -1,4 +1,5 @@
 ![image](preview.png)
+<figcaption>preview of the application</figcaption>
 
 ## Welcome!
 

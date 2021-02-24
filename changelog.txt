@@ -1,0 +1,17 @@
+
+======= [ WELCOME TO THE CHANGELOG ] =======
+
+v1.0 -> Feb 24 2021, Wednesday @ 1:28 A.M.
+1. Stable version 1.0 woohooo!
+2. Released to GitHub
+3. Fixed typos & adjusted font sizes
+4. Website button should now redirect to an actual site (the project's website)
+
+v1.0b -> Feb 22 2021, Monday @ 12:29 P.M.
+1. Reached beta phase
+
+v1.1a -> Sep 13 2020, Sunday @ 10:13 P.M.
+1. I've discovered that the "IBM" font causes two problems so I fixed it by using a new better font! The "fontmaster- *ehm* ator"; lol just kidding it's called "Source Code Pro". More info about the problem: 1. the cursor seemed to be unaligned with the text in the [message] text box; 2. the text "click button to continue blah blah..." was not centered.
+
+v1.0a -> Aug 31 2020, Monday @ 10:10 P.M.
+1. I finished all the main parts and features yeehaw!

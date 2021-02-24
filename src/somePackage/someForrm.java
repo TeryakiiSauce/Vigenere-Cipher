@@ -165,7 +165,7 @@ public class someForrm extends javax.swing.JFrame {
             processBtn.setFont(Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("iosevka-ss07-extrabolditalic_(processBtn).ttf")).deriveFont(18f));
             charCounterLabel.setFont(Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("MajorMonoDisplay-Regular_(charCounterLabel).ttf")).deriveFont(13f));
             resultText.setFont(Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("SourceCodePro-Regular_(result).ttf")).deriveFont(14f));
-            websiteLabel.setFont(Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("VictorMono-LightItalic_(version).ttf")).deriveFont(12f));
+            websiteLabel.setFont(Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("VictorMono-LightItalic_(version).ttf")).deriveFont(11f));
             copyrightLabel.setFont(Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("VictorMono-Regular_(copyright).ttf")).deriveFont(11f));
             saveBtn.setFont(Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("iosevka-ss07-extrabolditalic_(processBtn).ttf")).deriveFont(10f));
             progressBar.setFont(Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("VictorMono-SemiBoldItalic_(labels).ttf")).deriveFont(12f));
@@ -213,7 +213,6 @@ public class someForrm extends javax.swing.JFrame {
         twitterLogo = new javax.swing.JLabel();
         githubLogo = new javax.swing.JLabel();
         websiteLabel = new javax.swing.JLabel();
-        websiteUnderline = new javax.swing.JLabel();
         copyrightLabel = new javax.swing.JLabel();
         saveBtnPanel = new javax.swing.JPanel();
         saveBtnPanel.setVisible(false);
@@ -630,14 +629,7 @@ public class someForrm extends javax.swing.JFrame {
                 websiteLabelMouseClicked(evt);
             }
         });
-        rightPanel.add(websiteLabel, new org.netbeans.lib.awtextra.AbsoluteConstraints(195, 484, 100, 20));
-
-        websiteUnderline.setForeground(new java.awt.Color(51, 51, 51));
-        websiteUnderline.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        websiteUnderline.setText("_________");
-        websiteUnderline.setToolTipText("");
-        websiteUnderline.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        rightPanel.add(websiteUnderline, new org.netbeans.lib.awtextra.AbsoluteConstraints(178, 492, 130, 20));
+        rightPanel.add(websiteLabel, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 490, 100, 20));
 
         copyrightLabel.setBackground(new java.awt.Color(51, 51, 51));
         copyrightLabel.setFont(new java.awt.Font("Victor Mono Light", 0, 10)); // NOI18N
@@ -1556,6 +1548,5 @@ public class someForrm extends javax.swing.JFrame {
     private javax.swing.JLabel twitterLogo;
     private javax.swing.JLabel versionLabel;
     private javax.swing.JLabel websiteLabel;
-    private javax.swing.JLabel websiteUnderline;
     // End of variables declaration//GEN-END:variables
 }

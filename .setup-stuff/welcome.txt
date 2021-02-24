@@ -1,0 +1,2 @@
+Hello there! I just would like you to know that this application is for entertainment purposes only. Use it at your own risk!
+Also, if you encounter any problem after installing (app won't run), make sure to download Java Runtime Environment (you should be redirected automatically)

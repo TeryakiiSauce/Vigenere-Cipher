@@ -16,12 +16,12 @@ AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 DefaultDirName={autopf}\{#MyAppName}
 DisableProgramGroupPage=yes
-InfoBeforeFile=C:\Users\TeryakiiSauce\Desktop\Vigenere Cipher App\setup stuff\welcome.txt
-InfoAfterFile=C:\Users\TeryakiiSauce\Desktop\Vigenere Cipher App\setup stuff\thanks.txt
+InfoBeforeFile=C:\Users\TeryakiiSauce\Desktop\Vigenere Cipher App\setup-stuff\welcome.txt
+InfoAfterFile=C:\Users\TeryakiiSauce\Desktop\Vigenere Cipher App\setup-stuff\thanks.txt
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
 OutputBaseFilename=setup_vigenere-cipher_v1.0
-SetupIconFile=C:\Users\TeryakiiSauce\Desktop\Vigenere Cipher App\dist\img_4011.ico
+SetupIconFile=C:\Users\TeryakiiSauce\Desktop\Vigenere Cipher App\dist\icon.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern

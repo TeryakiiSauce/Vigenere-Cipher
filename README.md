@@ -1,3 +1,5 @@
+> 📌 Note: Repo is now archived because I will not make any further changes (development stopped); however, you can still clone, fork, etc.
+
 # Vigenere-Cipher
 This beautifully-built GUI application is made for ENTERTAINMENT PURPOSES only! Use at your own risk!
 
